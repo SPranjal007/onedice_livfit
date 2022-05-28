@@ -292,12 +292,12 @@ $enable-shadows: false;
     text-align: center; }
   
   .gallery-filter .btn {
-    background-color: #FFF; }
+    background-color: #111111ad; }
   
   .gallery {
     padding: 50px;
     padding: 30px;
-    background-color: #FFF; }
+    background-color: #111; }
     @media screen and (max-width: 940px) {
       .gallery {
         padding: 30px 10px; } }
@@ -319,19 +319,19 @@ $enable-shadows: false;
   
   .filter-button {
     font-size: 18px;
-    border: 1px solid #3cc88f;
+    border: 1px solid #f5f5f5;
     border-radius: 5px;
     text-align: center;
-    color: #3cc88f;
+    color: #ffffff;
     margin-bottom: 30px; }
   
   .filter-button:hover {
     font-size: 18px;
-    border: 1px solid #3cc88f;
+    border: 1px solid white;
     border-radius: 5px;
     text-align: center;
-    color: #ffffff;
-    background-color: #3cc88f; }
+    color: #111;
+    background-color: white; }
   
   .btn-default:active .filter-button:active {
     background-color: #3cc88f;
